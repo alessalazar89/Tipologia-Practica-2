@@ -82,7 +82,8 @@ las variables son:
  23. pico-rpm: continúa de 4150 a 6600.  
  24. ciudad-mpg: continúa de 13 a 49.  
  25. carretera- mpg: continúo de 16 a 54.  
- 26. precio: continúo de 5118 a 45400.  
+ 26. precio: continúo de 5118 a 45400. 
+ 27. AGREGAR CAMBIO
 
 </div>. 
 
